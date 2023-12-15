@@ -3,6 +3,8 @@ Ein Bot, welcher programmiert wurde als eine Probeaufgabe für den Discord Serve
 Status: Bestanden
 
 Funktionalität:
+
+
 Schreibe dem Bot privat und gebe anonym die Nachricht in ein Kanal aus.
 Nachrichten werden geloggt, Name des Autors, Datum und die Nachricht.
 
