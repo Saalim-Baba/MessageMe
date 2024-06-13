@@ -1,4 +1,5 @@
-Ein Bot, welcher programmiert wurde als eine Probeaufgabe für den Discord Server "SwissHub".
+Ein Bot, welcher programmiert wurde als eine Probeaufgabe für den Discord Server "SwissHub". 
+**Note Juni 2024**: Codequalität ist nicht das beste, dies ist das erste Projekt was ich je mit discord.py geschrieben hab
 
 Status: Bestanden
 
